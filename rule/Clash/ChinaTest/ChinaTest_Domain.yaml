@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-27 02:25:40
-# DOMAIN-SUFFIX: 70424
+# UPDATED: 2021-04-28 02:24:25
+# DOMAIN-SUFFIX: 70414
 # DOMAIN: 76
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70571
+# TOTAL: 70561
 payload:
   - '265.com'
   - '2mdn.net'
@@ -2778,7 +2778,6 @@ payload:
   - '.26youxi.com'
   - '.26yx.com'
   - '.270top.com'
-  - '.2718037.com'
   - '.27270.com'
   - '.2727u.com'
   - '.273u.com'
@@ -8074,7 +8073,6 @@ payload:
   - '.99wed.com'
   - '.99weiqi.com'
   - '.99wuxian.com'
-  - '.99xitie.com'
   - '.99xr.com'
   - '.99xsw.cc'
   - '.99xxg.com'
@@ -11302,7 +11300,6 @@ payload:
   - '.baokutreasury.com'
   - '.baolaina.cc'
   - '.baolijuyuancn.com'
-  - '.baolonggj.com'
   - '.baoltx.com'
   - '.baomao1314.com'
   - '.baomi.com'
@@ -14895,7 +14892,6 @@ payload:
   - '.cgplayer.com'
   - '.cgplusplus.com'
   - '.cgpx.org'
-  - '.cgquanter.com'
   - '.cgris.net'
   - '.cgsdream.org'
   - '.cgsec.com'
@@ -25460,7 +25456,6 @@ payload:
   - '.gaoxiao88.net'
   - '.gaoxiaobang.com'
   - '.gaoxiaojob.com'
-  - '.gaoxiaotu.com'
   - '.gaoxiaovod.com'
   - '.gaoxin123.com'
   - '.gaoxinbao.xyz'
@@ -28653,7 +28648,6 @@ payload:
   - '.he9630.com'
   - '.heacn.net'
   - '.head-way.com'
-  - '.headerhotel.com'
   - '.headns.com'
   - '.headphoneclub.com'
   - '.heaedu.com'
@@ -29989,7 +29983,6 @@ payload:
   - '.hqbuycdn.com'
   - '.hqc-china.com'
   - '.hqcanyin.com'
-  - '.hqcft.com'
   - '.hqchip.com'
   - '.hqck.net'
   - '.hqcr.com'
@@ -35142,7 +35135,6 @@ payload:
   - '.jnshu.com'
   - '.jnsino.com'
   - '.jnstdc.com'
-  - '.jntianjin.club'
   - '.jntinchina.com'
   - '.jntxglass.com'
   - '.jntyhl.com'
@@ -37262,7 +37254,6 @@ payload:
   - '.kscac.com'
   - '.kscdns.com'
   - '.ksdlp.com'
-  - '.ksdnw.net'
   - '.ksdown.com'
   - '.ksense.com'
   - '.ksfang.com'
@@ -47282,7 +47273,6 @@ payload:
   - '.qdmama.net'
   - '.qdmcxh.com'
   - '.qdmm.com'
-  - '.qdmmcmc.com'
   - '.qdnsyh.com'
   - '.qdooc.com'
   - '.qdpdjx.com'
@@ -51023,7 +51013,6 @@ payload:
   - '.shanqb.com'
   - '.shanqian.vip'
   - '.shanse8.com'
-  - '.shanshuidan.com'
   - '.shanshuihotel.com'
   - '.shantoumama.com'
   - '.shanweinews.net'
@@ -51586,6 +51575,7 @@ payload:
   - '.shojo.cc'
   - '.shokan.org'
   - '.shokw.com'
+  - '.shoot.photo'
   - '.shootmedia.net'
   - '.shop.samsung.com'
   - '.shop123.com'
@@ -59472,7 +59462,6 @@ payload:
   - '.wedn.net'
   - '.wedo8.com'
   - '.wedooapp.com'
-  - '.wedzjy.net'
   - '.weebei.com'
   - '.weebia.com'
   - '.weedong.com'
@@ -63932,6 +63921,7 @@ payload:
   - '.xswdcasting.com'
   - '.xsxkzz.com'
   - '.xsy668.com'
+  - '.xsycps.com'
   - '.xsyk021.com'
   - '.xsyqmztg.com'
   - '.xsyushan.com'

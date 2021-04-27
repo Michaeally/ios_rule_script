@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-27 02:25:38
+# UPDATED: 2021-04-28 02:24:23
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 45517
-# DOMAIN: 20650
+# DOMAIN: 20645
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 66776
+# TOTAL: 66771
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -80,7 +80,6 @@
 100extensionsforgames.com
 100searchengines.com
 100webads.com
-101billion.com
 101homeschool.com
 101order.com
 102.112.207.net
@@ -1110,6 +1109,7 @@ ad2.shallwead.com
 ad2.speedbit.com
 ad2.xrea.com
 ad2.zophar.net
+ad2flash.com
 ad2upapp.com
 ad3.depositfiles.com
 ad3.linkbucks.com
@@ -1766,6 +1766,7 @@ ads.prospect.org
 ads.pruc.org
 ads.psd2html.com
 ads.publicdisgrace.com
+ads.quasaraffiliates.com
 ads.queendom.com
 ads.racunalniske-novice.com
 ads.radiatemedia.com
@@ -1947,6 +1948,7 @@ ads09.focalink.com
 ads1.advance.net
 ads1.ami-admin.com
 ads1.destructoid.com
+ads1.empiretheatres.com
 ads1.erotism.com
 ads1.omdadget.com
 ads1.realcities.com
@@ -4715,7 +4717,6 @@ carrefour.inq.com
 carrefour.touchcommerce.com
 carrefourbrasil.inq.com
 carry4enterprises.com
-cart.asianglobal.cn
 cartoonpornguide.com
 cartoontube.com
 caryaward.com
@@ -4787,7 +4788,6 @@ cc.lbesec.com
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 cc2.sys.intl.xiaomi.com
-cc4.5dt3au3e9.com
 cc5f.dnyp.com
 cca-paris.com
 ccaltinbas.com
@@ -6165,7 +6165,6 @@ csgoboom.net
 csgocoolcase.com
 csgodrugs.com
 csgofastrade.com
-csgoforces.com
 csgofortunes.com
 csgohall.com
 csgolden.com
@@ -6734,7 +6733,6 @@ diversityinboardrooms.com
 divhacks.com
 divine.lunarbreeze.com
 divinedeals.net
-divinediagnosis.com
 divinegenerator.com
 divisioncore.com
 divyanshunayak.com
@@ -6947,7 +6945,6 @@ downloadprivate.com
 downloadr.xyz
 downloadroot.com
 downloads-mobile.com
-downloads-whatsapp.com
 downloads.mytvandmovies.com
 downloads.unbounce.com
 downloadsafe.org
@@ -7169,6 +7166,7 @@ earthequipments.com
 earthpowerint.com
 earthquakescarf.com
 earthycopy.com
+east.05tz2e9.com
 eastbayfixers.com
 eastendtandoori.com
 eastmead1.ipower.com
@@ -7900,6 +7898,7 @@ fetishlocator.com
 ffbook.cc
 ffxitrack.com
 fg.softguy.com
+fg09t.com
 fg45fe.webcindario.com
 fgawegwr.chez.com
 fgf5.webcindario.com
@@ -9384,7 +9383,6 @@ hackcreator.com
 hackdragoncity.net
 hackearfacebook.net
 hackearfb.com
-hackearwhatsapp.com
 hackearya.com
 hackerbot.net
 hackerfbhack.com
@@ -9573,6 +9571,7 @@ hdmoviespot.com
 hdporium.com
 hdyj168.com.cn
 headless.ebkfwd.com
+healgastro.com
 health-partner.net
 healthbeautyncs.com
 healthbeautytrade.com
@@ -9615,7 +9614,6 @@ helpkaden.org
 helplimits.com
 helpmedb.com
 helpmedownload.com
-helps-instagram.com
 hengyongonline.com
 hentaidatabase.com
 hentainotits.com
@@ -10749,6 +10747,7 @@ join1.winhundred.com
 joinerysolutions.com
 joinourwebsite.com
 jointrent.com
+jokedollars.com
 jokoshep.com
 jokowi12.000webhostapp.com
 jollyk10.000webhostapp.com
@@ -10817,7 +10816,6 @@ json4.ringrevenue.com
 jsso.indiatimes.com
 jssocdn.indiatimes.com
 jstatic.top
-jsth8899.com
 jstzpcty.com
 jt.india.com
 jtoutfitters.com
@@ -10863,7 +10861,6 @@ justin48.000webhostapp.com
 justinterracialsex.com
 justintimetac.com
 justlookapp.com
-justourwedding.com
 justprofit.xyz
 justredirect25.com
 justsayingbro.com
@@ -11006,6 +11003,7 @@ kickplays.com
 kidneyinfolk.com
 kids-fashion.dk
 kids-in-sandbox.com
+kidsghibli.com
 kidspalaces.com
 kijods.000webhostapp.com
 kikeserrano.com
@@ -12232,7 +12230,6 @@ megacloudz.net
 megadirtyfiles.com
 megadown.net
 megadownloder.com
-megaexecutive.com
 megafingroup.com
 megamakmur.com
 megamaxturkiye.com
@@ -14115,7 +14112,6 @@ perupuntocom.com
 peskygamer.com
 pestxbakersfield.com
 petelazer.com
-peter-walters.com
 peterjj.000webhostapp.com
 peterjjj.000webhostapp.com
 peterschramko.com
@@ -15306,7 +15302,6 @@ repmbuycurl.com
 report.hb.brainlyads.com
 report.webclicks24.com
 reporting.aatkit.com
-reportinstagram.com
 reports.actionx.com
 reports.cliqz.com
 reports.wes.df.telemetry.microsoft.com
@@ -17623,6 +17618,7 @@ te.advance.net
 te.astrology.com
 te.chron.com
 te.cleveland.net
+te.greenwichtime.com
 te.thestar.com
 te.versiontracker.com
 teachac.com
@@ -17709,6 +17705,7 @@ tenorsoftware.com
 tenx-tech.com
 teqjqccybyvlfbru.com
 ter2018.000webhostapp.com
+terapou.com
 terassss.000webhostapp.com
 terbush.net
 termiks05.000webhostapp.com
@@ -17889,7 +17886,6 @@ thewebup.com
 thewinesteward.com
 thewinslowgroup.com
 thewritersniche.com
-thiksikr.com
 thinair.inq.com
 thingre.com
 think.unbounce.com
@@ -17904,6 +17900,7 @@ thisisyourchangeqq.com
 thissideupdesigns.com
 thogethoffic.co
 thomashobbs.com
+thomchotte.com
 thoosje.com
 thoroclean.com
 thoughttogether.net
@@ -17956,7 +17953,6 @@ timgiesecke.com
 timothycopus.aimoo.com
 timothyfiore.com
 tin.11bet.net
-tin.xpornoset.com
 tinaborg.com
 tinap7.000webhostapp.com
 tinggalklik.com
@@ -18408,7 +18404,6 @@ trader.erosdlz.com
 traderockets.com
 tradersbrokers.com
 tradingcsgo.com
-traf.street-info.com
 traff1.com
 traff10wap.com
 traffic-c.com
@@ -18528,7 +18523,6 @@ triggerinstalls.com
 triligenergy.com
 trinylium.com
 tripedrated.xyz
-trippinger.com
 trislee.xyz
 triumphchinhhang.net
 trk.ablogica.com
@@ -19279,6 +19273,7 @@ vns10555.com
 vns4390.com
 vns4391.com
 vns4392.com
+vns4393.com
 vns4394.com
 vns4395.com
 vns4396.com
@@ -19598,6 +19593,7 @@ wen.jshbyn.com
 werbeflut.net
 werbung.meteoxpress.com
 wes.df.telemetry.microsoft.com
+west.05tz2e9.com
 westcoastuniversity-edu.com
 westerntaneyfire.com
 westhavenuniv.edu
@@ -20011,7 +20007,6 @@ www2.glam.com
 www2.multipops.com
 www2.pagecount.com
 www2.wyylde.com
-www2.yidsense.com
 www210.paypopup.com
 www211.paypopup.com
 www212.paypopup.com

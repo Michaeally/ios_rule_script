@@ -1,10 +1,10 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-25 02:23:05
+# UPDATED: 2021-04-28 02:24:24
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 8588
-# TOTAL: 8608
+# DOMAIN-SUFFIX: 8590
+# TOTAL: 8610
 api.miwifi.com
 hm.baidu.com
 hmma.baidu.com
@@ -2749,6 +2749,7 @@ zgsdk.zhugeio.com
 .gotoaws.rosegal.com
 .gotoaws.zaful.com
 .gotoexp.dresslily.com
+.gozendata.com
 .graftpool.ovh
 .gramombird.com
 .green-griffin-860.appspot.com
@@ -2770,6 +2771,7 @@ zgsdk.zhugeio.com
 .gycyms.backmarket.de
 .gyvcwd.cdiscount.com
 .gz-data.com
+.gzads.com
 .gzsqhu.patirti.com
 .h.cliphunter.com
 .h.imedia.cz

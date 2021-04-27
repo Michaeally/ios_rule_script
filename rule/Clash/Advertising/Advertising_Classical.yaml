@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-27 02:25:40
+# UPDATED: 2021-04-28 02:24:25
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 45517
-# DOMAIN: 20650
+# DOMAIN: 20645
 # IP-CIDR: 247
 # IP-CIDR6: 1
-# TOTAL: 66474
+# TOTAL: 66469
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -79,7 +79,6 @@ payload:
   - DOMAIN,100extensionsforgames.com
   - DOMAIN,100searchengines.com
   - DOMAIN,100webads.com
-  - DOMAIN,101billion.com
   - DOMAIN,101homeschool.com
   - DOMAIN,101order.com
   - DOMAIN,102.112.207.net
@@ -1109,6 +1108,7 @@ payload:
   - DOMAIN,ad2.speedbit.com
   - DOMAIN,ad2.xrea.com
   - DOMAIN,ad2.zophar.net
+  - DOMAIN,ad2flash.com
   - DOMAIN,ad2upapp.com
   - DOMAIN,ad3.depositfiles.com
   - DOMAIN,ad3.linkbucks.com
@@ -1765,6 +1765,7 @@ payload:
   - DOMAIN,ads.pruc.org
   - DOMAIN,ads.psd2html.com
   - DOMAIN,ads.publicdisgrace.com
+  - DOMAIN,ads.quasaraffiliates.com
   - DOMAIN,ads.queendom.com
   - DOMAIN,ads.racunalniske-novice.com
   - DOMAIN,ads.radiatemedia.com
@@ -1946,6 +1947,7 @@ payload:
   - DOMAIN,ads1.advance.net
   - DOMAIN,ads1.ami-admin.com
   - DOMAIN,ads1.destructoid.com
+  - DOMAIN,ads1.empiretheatres.com
   - DOMAIN,ads1.erotism.com
   - DOMAIN,ads1.omdadget.com
   - DOMAIN,ads1.realcities.com
@@ -4714,7 +4716,6 @@ payload:
   - DOMAIN,carrefour.touchcommerce.com
   - DOMAIN,carrefourbrasil.inq.com
   - DOMAIN,carry4enterprises.com
-  - DOMAIN,cart.asianglobal.cn
   - DOMAIN,cartoonpornguide.com
   - DOMAIN,cartoontube.com
   - DOMAIN,caryaward.com
@@ -4786,7 +4787,6 @@ payload:
   - DOMAIN,cc.sys.intl.xiaomi.com
   - DOMAIN,cc.sys.miui.com
   - DOMAIN,cc2.sys.intl.xiaomi.com
-  - DOMAIN,cc4.5dt3au3e9.com
   - DOMAIN,cc5f.dnyp.com
   - DOMAIN,cca-paris.com
   - DOMAIN,ccaltinbas.com
@@ -6164,7 +6164,6 @@ payload:
   - DOMAIN,csgocoolcase.com
   - DOMAIN,csgodrugs.com
   - DOMAIN,csgofastrade.com
-  - DOMAIN,csgoforces.com
   - DOMAIN,csgofortunes.com
   - DOMAIN,csgohall.com
   - DOMAIN,csgolden.com
@@ -6733,7 +6732,6 @@ payload:
   - DOMAIN,divhacks.com
   - DOMAIN,divine.lunarbreeze.com
   - DOMAIN,divinedeals.net
-  - DOMAIN,divinediagnosis.com
   - DOMAIN,divinegenerator.com
   - DOMAIN,divisioncore.com
   - DOMAIN,divyanshunayak.com
@@ -6946,7 +6944,6 @@ payload:
   - DOMAIN,downloadr.xyz
   - DOMAIN,downloadroot.com
   - DOMAIN,downloads-mobile.com
-  - DOMAIN,downloads-whatsapp.com
   - DOMAIN,downloads.mytvandmovies.com
   - DOMAIN,downloads.unbounce.com
   - DOMAIN,downloadsafe.org
@@ -7168,6 +7165,7 @@ payload:
   - DOMAIN,earthpowerint.com
   - DOMAIN,earthquakescarf.com
   - DOMAIN,earthycopy.com
+  - DOMAIN,east.05tz2e9.com
   - DOMAIN,eastbayfixers.com
   - DOMAIN,eastendtandoori.com
   - DOMAIN,eastmead1.ipower.com
@@ -7899,6 +7897,7 @@ payload:
   - DOMAIN,ffbook.cc
   - DOMAIN,ffxitrack.com
   - DOMAIN,fg.softguy.com
+  - DOMAIN,fg09t.com
   - DOMAIN,fg45fe.webcindario.com
   - DOMAIN,fgawegwr.chez.com
   - DOMAIN,fgf5.webcindario.com
@@ -9383,7 +9382,6 @@ payload:
   - DOMAIN,hackdragoncity.net
   - DOMAIN,hackearfacebook.net
   - DOMAIN,hackearfb.com
-  - DOMAIN,hackearwhatsapp.com
   - DOMAIN,hackearya.com
   - DOMAIN,hackerbot.net
   - DOMAIN,hackerfbhack.com
@@ -9572,6 +9570,7 @@ payload:
   - DOMAIN,hdporium.com
   - DOMAIN,hdyj168.com.cn
   - DOMAIN,headless.ebkfwd.com
+  - DOMAIN,healgastro.com
   - DOMAIN,health-partner.net
   - DOMAIN,healthbeautyncs.com
   - DOMAIN,healthbeautytrade.com
@@ -9614,7 +9613,6 @@ payload:
   - DOMAIN,helplimits.com
   - DOMAIN,helpmedb.com
   - DOMAIN,helpmedownload.com
-  - DOMAIN,helps-instagram.com
   - DOMAIN,hengyongonline.com
   - DOMAIN,hentaidatabase.com
   - DOMAIN,hentainotits.com
@@ -10748,6 +10746,7 @@ payload:
   - DOMAIN,joinerysolutions.com
   - DOMAIN,joinourwebsite.com
   - DOMAIN,jointrent.com
+  - DOMAIN,jokedollars.com
   - DOMAIN,jokoshep.com
   - DOMAIN,jokowi12.000webhostapp.com
   - DOMAIN,jollyk10.000webhostapp.com
@@ -10816,7 +10815,6 @@ payload:
   - DOMAIN,jsso.indiatimes.com
   - DOMAIN,jssocdn.indiatimes.com
   - DOMAIN,jstatic.top
-  - DOMAIN,jsth8899.com
   - DOMAIN,jstzpcty.com
   - DOMAIN,jt.india.com
   - DOMAIN,jtoutfitters.com
@@ -10862,7 +10860,6 @@ payload:
   - DOMAIN,justinterracialsex.com
   - DOMAIN,justintimetac.com
   - DOMAIN,justlookapp.com
-  - DOMAIN,justourwedding.com
   - DOMAIN,justprofit.xyz
   - DOMAIN,justredirect25.com
   - DOMAIN,justsayingbro.com
@@ -11005,6 +11002,7 @@ payload:
   - DOMAIN,kidneyinfolk.com
   - DOMAIN,kids-fashion.dk
   - DOMAIN,kids-in-sandbox.com
+  - DOMAIN,kidsghibli.com
   - DOMAIN,kidspalaces.com
   - DOMAIN,kijods.000webhostapp.com
   - DOMAIN,kikeserrano.com
@@ -12231,7 +12229,6 @@ payload:
   - DOMAIN,megadirtyfiles.com
   - DOMAIN,megadown.net
   - DOMAIN,megadownloder.com
-  - DOMAIN,megaexecutive.com
   - DOMAIN,megafingroup.com
   - DOMAIN,megamakmur.com
   - DOMAIN,megamaxturkiye.com
@@ -14114,7 +14111,6 @@ payload:
   - DOMAIN,peskygamer.com
   - DOMAIN,pestxbakersfield.com
   - DOMAIN,petelazer.com
-  - DOMAIN,peter-walters.com
   - DOMAIN,peterjj.000webhostapp.com
   - DOMAIN,peterjjj.000webhostapp.com
   - DOMAIN,peterschramko.com
@@ -15305,7 +15301,6 @@ payload:
   - DOMAIN,report.hb.brainlyads.com
   - DOMAIN,report.webclicks24.com
   - DOMAIN,reporting.aatkit.com
-  - DOMAIN,reportinstagram.com
   - DOMAIN,reports.actionx.com
   - DOMAIN,reports.cliqz.com
   - DOMAIN,reports.wes.df.telemetry.microsoft.com
@@ -17622,6 +17617,7 @@ payload:
   - DOMAIN,te.astrology.com
   - DOMAIN,te.chron.com
   - DOMAIN,te.cleveland.net
+  - DOMAIN,te.greenwichtime.com
   - DOMAIN,te.thestar.com
   - DOMAIN,te.versiontracker.com
   - DOMAIN,teachac.com
@@ -17708,6 +17704,7 @@ payload:
   - DOMAIN,tenx-tech.com
   - DOMAIN,teqjqccybyvlfbru.com
   - DOMAIN,ter2018.000webhostapp.com
+  - DOMAIN,terapou.com
   - DOMAIN,terassss.000webhostapp.com
   - DOMAIN,terbush.net
   - DOMAIN,termiks05.000webhostapp.com
@@ -17888,7 +17885,6 @@ payload:
   - DOMAIN,thewinesteward.com
   - DOMAIN,thewinslowgroup.com
   - DOMAIN,thewritersniche.com
-  - DOMAIN,thiksikr.com
   - DOMAIN,thinair.inq.com
   - DOMAIN,thingre.com
   - DOMAIN,think.unbounce.com
@@ -17903,6 +17899,7 @@ payload:
   - DOMAIN,thissideupdesigns.com
   - DOMAIN,thogethoffic.co
   - DOMAIN,thomashobbs.com
+  - DOMAIN,thomchotte.com
   - DOMAIN,thoosje.com
   - DOMAIN,thoroclean.com
   - DOMAIN,thoughttogether.net
@@ -17955,7 +17952,6 @@ payload:
   - DOMAIN,timothycopus.aimoo.com
   - DOMAIN,timothyfiore.com
   - DOMAIN,tin.11bet.net
-  - DOMAIN,tin.xpornoset.com
   - DOMAIN,tinaborg.com
   - DOMAIN,tinap7.000webhostapp.com
   - DOMAIN,tinggalklik.com
@@ -18407,7 +18403,6 @@ payload:
   - DOMAIN,traderockets.com
   - DOMAIN,tradersbrokers.com
   - DOMAIN,tradingcsgo.com
-  - DOMAIN,traf.street-info.com
   - DOMAIN,traff1.com
   - DOMAIN,traff10wap.com
   - DOMAIN,traffic-c.com
@@ -18527,7 +18522,6 @@ payload:
   - DOMAIN,triligenergy.com
   - DOMAIN,trinylium.com
   - DOMAIN,tripedrated.xyz
-  - DOMAIN,trippinger.com
   - DOMAIN,trislee.xyz
   - DOMAIN,triumphchinhhang.net
   - DOMAIN,trk.ablogica.com
@@ -19278,6 +19272,7 @@ payload:
   - DOMAIN,vns4390.com
   - DOMAIN,vns4391.com
   - DOMAIN,vns4392.com
+  - DOMAIN,vns4393.com
   - DOMAIN,vns4394.com
   - DOMAIN,vns4395.com
   - DOMAIN,vns4396.com
@@ -19597,6 +19592,7 @@ payload:
   - DOMAIN,werbeflut.net
   - DOMAIN,werbung.meteoxpress.com
   - DOMAIN,wes.df.telemetry.microsoft.com
+  - DOMAIN,west.05tz2e9.com
   - DOMAIN,westcoastuniversity-edu.com
   - DOMAIN,westerntaneyfire.com
   - DOMAIN,westhavenuniv.edu
@@ -20010,7 +20006,6 @@ payload:
   - DOMAIN,www2.multipops.com
   - DOMAIN,www2.pagecount.com
   - DOMAIN,www2.wyylde.com
-  - DOMAIN,www2.yidsense.com
   - DOMAIN,www210.paypopup.com
   - DOMAIN,www211.paypopup.com
   - DOMAIN,www212.paypopup.com
