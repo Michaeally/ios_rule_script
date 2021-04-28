@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-28 02:24:25
+# UPDATED: 2021-04-29 02:24:42
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12772
-# DOMAIN: 14832
+# DOMAIN: 14835
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 28087
+# TOTAL: 28090
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -1261,7 +1261,6 @@ adrsp.net
 adrta.com
 ads-4u.com
 ads-d.viber.com
-ads-elsevier.net
 ads-for-free.com
 ads-img-qc.xhscdn.com
 ads-marketing-vivofs.vivo.com.cn
@@ -1297,6 +1296,7 @@ ads.playboy.com
 ads.rd.linksynergy.com
 ads.saymedia.com
 ads.sexier.com
+ads.snapchat.com
 ads.traffichunt.com
 ads.tripod.lycos.co.uk
 ads.tripod.lycos.de
@@ -1326,6 +1326,7 @@ adsage.com
 adsagony.com
 adsalvo.com
 adsame1.cnr.cn
+adsapi.snapchat.com
 adsblockkpush.com
 adsbookie.com
 adsbr.info
@@ -1372,6 +1373,7 @@ adsforallmedia.com
 adsforindians.com
 adsfundi.com
 adsfuse.com
+adsgangsta.com
 adshack.com
 adshare.toutiao.com
 adshell.net
@@ -2446,6 +2448,7 @@ baitaiad.com
 baixing.com
 baizhu.cc
 balcekonspn.com
+baldiro.de
 baletingo.com
 balmoralmkt.com
 baltchd.net
@@ -9864,6 +9867,7 @@ plugin.mobopay.baidu.com
 plugin.ws
 plugs.co
 plusone.google.com
+plxserve.com
 plxtejszb.com
 plzjcnyxcdl.com
 pm.aty.sohu.com
@@ -10720,7 +10724,6 @@ renewads.com
 rensovetors.info
 rentfromart.com
 rentracks.jp
-reon.club
 reople.co.kr
 rep0pkgr.com
 repeatsweater.com
@@ -10832,6 +10835,9 @@ ribbon.india.com
 ric-ric-rum.com
 ricead.com
 richard-group.com
+richmanapi.jxedt.com
+richmanmain.jxedt.com
+richmanrules.jxedt.com
 richmedia.yahoo.com
 richmedia247.com
 richmetrics.com
@@ -11890,7 +11896,6 @@ sophus3.com
 sortsummer.com
 soska.us
 sotuktraffic.com
-souacode.com
 soup.v.qq.com
 sourcecode.pro
 sourcepoint.mgr.consensu.org
@@ -12770,7 +12775,6 @@ topmalaysia.com
 topofblogs.com
 topqualitylink.com
 topsem.com
-topshelftraffic.com
 topsite.lv
 topstat.cn
 topstat.com
@@ -14055,7 +14059,6 @@ woopra.com
 wootmedia.net
 wootric.com
 wordego.com
-worlddatinghere.com
 worldflagcounter.com
 worldgravity.com
 worldlogger.com

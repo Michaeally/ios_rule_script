@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-28 02:24:24
+# UPDATED: 2021-04-29 02:24:40
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12772
-# HOST: 14832
+# HOST: 14835
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27791
+# TOTAL: 27794
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -1259,7 +1259,6 @@ HOST,adrsp.net,AdvertisingLite
 HOST,adrta.com,AdvertisingLite
 HOST,ads-4u.com,AdvertisingLite
 HOST,ads-d.viber.com,AdvertisingLite
-HOST,ads-elsevier.net,AdvertisingLite
 HOST,ads-for-free.com,AdvertisingLite
 HOST,ads-img-qc.xhscdn.com,AdvertisingLite
 HOST,ads-marketing-vivofs.vivo.com.cn,AdvertisingLite
@@ -1295,6 +1294,7 @@ HOST,ads.playboy.com,AdvertisingLite
 HOST,ads.rd.linksynergy.com,AdvertisingLite
 HOST,ads.saymedia.com,AdvertisingLite
 HOST,ads.sexier.com,AdvertisingLite
+HOST,ads.snapchat.com,AdvertisingLite
 HOST,ads.traffichunt.com,AdvertisingLite
 HOST,ads.tripod.lycos.co.uk,AdvertisingLite
 HOST,ads.tripod.lycos.de,AdvertisingLite
@@ -1324,6 +1324,7 @@ HOST,adsage.com,AdvertisingLite
 HOST,adsagony.com,AdvertisingLite
 HOST,adsalvo.com,AdvertisingLite
 HOST,adsame1.cnr.cn,AdvertisingLite
+HOST,adsapi.snapchat.com,AdvertisingLite
 HOST,adsblockkpush.com,AdvertisingLite
 HOST,adsbookie.com,AdvertisingLite
 HOST,adsbr.info,AdvertisingLite
@@ -1370,6 +1371,7 @@ HOST,adsforallmedia.com,AdvertisingLite
 HOST,adsforindians.com,AdvertisingLite
 HOST,adsfundi.com,AdvertisingLite
 HOST,adsfuse.com,AdvertisingLite
+HOST,adsgangsta.com,AdvertisingLite
 HOST,adshack.com,AdvertisingLite
 HOST,adshare.toutiao.com,AdvertisingLite
 HOST,adshell.net,AdvertisingLite
@@ -2444,6 +2446,7 @@ HOST,baitaiad.com,AdvertisingLite
 HOST,baixing.com,AdvertisingLite
 HOST,baizhu.cc,AdvertisingLite
 HOST,balcekonspn.com,AdvertisingLite
+HOST,baldiro.de,AdvertisingLite
 HOST,baletingo.com,AdvertisingLite
 HOST,balmoralmkt.com,AdvertisingLite
 HOST,baltchd.net,AdvertisingLite
@@ -9862,6 +9865,7 @@ HOST,plugin.mobopay.baidu.com,AdvertisingLite
 HOST,plugin.ws,AdvertisingLite
 HOST,plugs.co,AdvertisingLite
 HOST,plusone.google.com,AdvertisingLite
+HOST,plxserve.com,AdvertisingLite
 HOST,plxtejszb.com,AdvertisingLite
 HOST,plzjcnyxcdl.com,AdvertisingLite
 HOST,pm.aty.sohu.com,AdvertisingLite
@@ -10718,7 +10722,6 @@ HOST,renewads.com,AdvertisingLite
 HOST,rensovetors.info,AdvertisingLite
 HOST,rentfromart.com,AdvertisingLite
 HOST,rentracks.jp,AdvertisingLite
-HOST,reon.club,AdvertisingLite
 HOST,reople.co.kr,AdvertisingLite
 HOST,rep0pkgr.com,AdvertisingLite
 HOST,repeatsweater.com,AdvertisingLite
@@ -10830,6 +10833,9 @@ HOST,ribbon.india.com,AdvertisingLite
 HOST,ric-ric-rum.com,AdvertisingLite
 HOST,ricead.com,AdvertisingLite
 HOST,richard-group.com,AdvertisingLite
+HOST,richmanapi.jxedt.com,AdvertisingLite
+HOST,richmanmain.jxedt.com,AdvertisingLite
+HOST,richmanrules.jxedt.com,AdvertisingLite
 HOST,richmedia.yahoo.com,AdvertisingLite
 HOST,richmedia247.com,AdvertisingLite
 HOST,richmetrics.com,AdvertisingLite
@@ -11888,7 +11894,6 @@ HOST,sophus3.com,AdvertisingLite
 HOST,sortsummer.com,AdvertisingLite
 HOST,soska.us,AdvertisingLite
 HOST,sotuktraffic.com,AdvertisingLite
-HOST,souacode.com,AdvertisingLite
 HOST,soup.v.qq.com,AdvertisingLite
 HOST,sourcecode.pro,AdvertisingLite
 HOST,sourcepoint.mgr.consensu.org,AdvertisingLite
@@ -12768,7 +12773,6 @@ HOST,topmalaysia.com,AdvertisingLite
 HOST,topofblogs.com,AdvertisingLite
 HOST,topqualitylink.com,AdvertisingLite
 HOST,topsem.com,AdvertisingLite
-HOST,topshelftraffic.com,AdvertisingLite
 HOST,topsite.lv,AdvertisingLite
 HOST,topstat.cn,AdvertisingLite
 HOST,topstat.com,AdvertisingLite
@@ -14053,7 +14057,6 @@ HOST,woopra.com,AdvertisingLite
 HOST,wootmedia.net,AdvertisingLite
 HOST,wootric.com,AdvertisingLite
 HOST,wordego.com,AdvertisingLite
-HOST,worlddatinghere.com,AdvertisingLite
 HOST,worldflagcounter.com,AdvertisingLite
 HOST,worldgravity.com,AdvertisingLite
 HOST,worldlogger.com,AdvertisingLite

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-28 02:24:25
+# UPDATED: 2021-04-29 02:24:41
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12772
-# DOMAIN: 14832
+# DOMAIN: 14835
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27791
+# TOTAL: 27794
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -1260,7 +1260,6 @@ payload:
   - DOMAIN,adrta.com
   - DOMAIN,ads-4u.com
   - DOMAIN,ads-d.viber.com
-  - DOMAIN,ads-elsevier.net
   - DOMAIN,ads-for-free.com
   - DOMAIN,ads-img-qc.xhscdn.com
   - DOMAIN,ads-marketing-vivofs.vivo.com.cn
@@ -1296,6 +1295,7 @@ payload:
   - DOMAIN,ads.rd.linksynergy.com
   - DOMAIN,ads.saymedia.com
   - DOMAIN,ads.sexier.com
+  - DOMAIN,ads.snapchat.com
   - DOMAIN,ads.traffichunt.com
   - DOMAIN,ads.tripod.lycos.co.uk
   - DOMAIN,ads.tripod.lycos.de
@@ -1325,6 +1325,7 @@ payload:
   - DOMAIN,adsagony.com
   - DOMAIN,adsalvo.com
   - DOMAIN,adsame1.cnr.cn
+  - DOMAIN,adsapi.snapchat.com
   - DOMAIN,adsblockkpush.com
   - DOMAIN,adsbookie.com
   - DOMAIN,adsbr.info
@@ -1371,6 +1372,7 @@ payload:
   - DOMAIN,adsforindians.com
   - DOMAIN,adsfundi.com
   - DOMAIN,adsfuse.com
+  - DOMAIN,adsgangsta.com
   - DOMAIN,adshack.com
   - DOMAIN,adshare.toutiao.com
   - DOMAIN,adshell.net
@@ -2445,6 +2447,7 @@ payload:
   - DOMAIN,baixing.com
   - DOMAIN,baizhu.cc
   - DOMAIN,balcekonspn.com
+  - DOMAIN,baldiro.de
   - DOMAIN,baletingo.com
   - DOMAIN,balmoralmkt.com
   - DOMAIN,baltchd.net
@@ -9863,6 +9866,7 @@ payload:
   - DOMAIN,plugin.ws
   - DOMAIN,plugs.co
   - DOMAIN,plusone.google.com
+  - DOMAIN,plxserve.com
   - DOMAIN,plxtejszb.com
   - DOMAIN,plzjcnyxcdl.com
   - DOMAIN,pm.aty.sohu.com
@@ -10719,7 +10723,6 @@ payload:
   - DOMAIN,rensovetors.info
   - DOMAIN,rentfromart.com
   - DOMAIN,rentracks.jp
-  - DOMAIN,reon.club
   - DOMAIN,reople.co.kr
   - DOMAIN,rep0pkgr.com
   - DOMAIN,repeatsweater.com
@@ -10831,6 +10834,9 @@ payload:
   - DOMAIN,ric-ric-rum.com
   - DOMAIN,ricead.com
   - DOMAIN,richard-group.com
+  - DOMAIN,richmanapi.jxedt.com
+  - DOMAIN,richmanmain.jxedt.com
+  - DOMAIN,richmanrules.jxedt.com
   - DOMAIN,richmedia.yahoo.com
   - DOMAIN,richmedia247.com
   - DOMAIN,richmetrics.com
@@ -11889,7 +11895,6 @@ payload:
   - DOMAIN,sortsummer.com
   - DOMAIN,soska.us
   - DOMAIN,sotuktraffic.com
-  - DOMAIN,souacode.com
   - DOMAIN,soup.v.qq.com
   - DOMAIN,sourcecode.pro
   - DOMAIN,sourcepoint.mgr.consensu.org
@@ -12769,7 +12774,6 @@ payload:
   - DOMAIN,topofblogs.com
   - DOMAIN,topqualitylink.com
   - DOMAIN,topsem.com
-  - DOMAIN,topshelftraffic.com
   - DOMAIN,topsite.lv
   - DOMAIN,topstat.cn
   - DOMAIN,topstat.com
@@ -14054,7 +14058,6 @@ payload:
   - DOMAIN,wootmedia.net
   - DOMAIN,wootric.com
   - DOMAIN,wordego.com
-  - DOMAIN,worlddatinghere.com
   - DOMAIN,worldflagcounter.com
   - DOMAIN,worldgravity.com
   - DOMAIN,worldlogger.com

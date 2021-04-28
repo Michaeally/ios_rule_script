@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-28 02:24:25
+# UPDATED: 2021-04-29 02:24:41
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12772
-# DOMAIN: 14832
+# DOMAIN: 14835
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27791
+# TOTAL: 27794
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -1260,7 +1260,6 @@ payload:
   - 'adrta.com'
   - 'ads-4u.com'
   - 'ads-d.viber.com'
-  - 'ads-elsevier.net'
   - 'ads-for-free.com'
   - 'ads-img-qc.xhscdn.com'
   - 'ads-marketing-vivofs.vivo.com.cn'
@@ -1296,6 +1295,7 @@ payload:
   - 'ads.rd.linksynergy.com'
   - 'ads.saymedia.com'
   - 'ads.sexier.com'
+  - 'ads.snapchat.com'
   - 'ads.traffichunt.com'
   - 'ads.tripod.lycos.co.uk'
   - 'ads.tripod.lycos.de'
@@ -1325,6 +1325,7 @@ payload:
   - 'adsagony.com'
   - 'adsalvo.com'
   - 'adsame1.cnr.cn'
+  - 'adsapi.snapchat.com'
   - 'adsblockkpush.com'
   - 'adsbookie.com'
   - 'adsbr.info'
@@ -1371,6 +1372,7 @@ payload:
   - 'adsforindians.com'
   - 'adsfundi.com'
   - 'adsfuse.com'
+  - 'adsgangsta.com'
   - 'adshack.com'
   - 'adshare.toutiao.com'
   - 'adshell.net'
@@ -2445,6 +2447,7 @@ payload:
   - 'baixing.com'
   - 'baizhu.cc'
   - 'balcekonspn.com'
+  - 'baldiro.de'
   - 'baletingo.com'
   - 'balmoralmkt.com'
   - 'baltchd.net'
@@ -9863,6 +9866,7 @@ payload:
   - 'plugin.ws'
   - 'plugs.co'
   - 'plusone.google.com'
+  - 'plxserve.com'
   - 'plxtejszb.com'
   - 'plzjcnyxcdl.com'
   - 'pm.aty.sohu.com'
@@ -10719,7 +10723,6 @@ payload:
   - 'rensovetors.info'
   - 'rentfromart.com'
   - 'rentracks.jp'
-  - 'reon.club'
   - 'reople.co.kr'
   - 'rep0pkgr.com'
   - 'repeatsweater.com'
@@ -10831,6 +10834,9 @@ payload:
   - 'ric-ric-rum.com'
   - 'ricead.com'
   - 'richard-group.com'
+  - 'richmanapi.jxedt.com'
+  - 'richmanmain.jxedt.com'
+  - 'richmanrules.jxedt.com'
   - 'richmedia.yahoo.com'
   - 'richmedia247.com'
   - 'richmetrics.com'
@@ -11889,7 +11895,6 @@ payload:
   - 'sortsummer.com'
   - 'soska.us'
   - 'sotuktraffic.com'
-  - 'souacode.com'
   - 'soup.v.qq.com'
   - 'sourcecode.pro'
   - 'sourcepoint.mgr.consensu.org'
@@ -12769,7 +12774,6 @@ payload:
   - 'topofblogs.com'
   - 'topqualitylink.com'
   - 'topsem.com'
-  - 'topshelftraffic.com'
   - 'topsite.lv'
   - 'topstat.cn'
   - 'topstat.com'
@@ -14054,7 +14058,6 @@ payload:
   - 'wootmedia.net'
   - 'wootric.com'
   - 'wordego.com'
-  - 'worlddatinghere.com'
   - 'worldflagcounter.com'
   - 'worldgravity.com'
   - 'worldlogger.com'
