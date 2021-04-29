@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-29 02:24:41
-# DOMAIN-KEYWORD: 61
+# UPDATED: 2021-04-30 02:19:42
+# DOMAIN-KEYWORD: 68
 # DOMAIN-SUFFIX: 45535
-# DOMAIN: 20641
+# DOMAIN: 20623
 # IP-CIDR: 247
 # IP-CIDR6: 1
-# TOTAL: 66485
+# TOTAL: 66474
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2198,7 +2198,6 @@ payload:
   - DOMAIN,adsp.haberturk.com
   - DOMAIN,adspectacle.net
   - DOMAIN,adspirit.net
-  - DOMAIN,adspserving.com
   - DOMAIN,adsrv.ads.eniro.com
   - DOMAIN,adsrv.bangbros.com
   - DOMAIN,adsrv.deviantart.com
@@ -2619,7 +2618,6 @@ payload:
   - DOMAIN,all.technologyoptical.com
   - DOMAIN,allaboutsearching.com
   - DOMAIN,alladvantage.com
-  - DOMAIN,allanimehentai.com
   - DOMAIN,allaptair.club
   - DOMAIN,allaskme.com
   - DOMAIN,allbestnews.net
@@ -3150,7 +3148,6 @@ payload:
   - DOMAIN,app.storage.yunvm.com
   - DOMAIN,app.subiz.com
   - DOMAIN,app.theuolo.com
-  - DOMAIN,app.trackappr.com
   - DOMAIN,app.unbounce.com
   - DOMAIN,app.us-east-1.unbounce.com
   - DOMAIN,app.wigzo.com
@@ -3469,6 +3466,7 @@ payload:
   - DOMAIN,avazunativeads.com
   - DOMAIN,aveprize.com
   - DOMAIN,aviamexpress.com
+  - DOMAIN,aviatordiscs.com
   - DOMAIN,avidnewssource.com
   - DOMAIN,avidtrak.com
   - DOMAIN,avilagtitkai.com
@@ -3777,7 +3775,6 @@ payload:
   - DOMAIN,bbs.youzu.com
   - DOMAIN,bbs.zgfhl.com
   - DOMAIN,bbsroofing.com
-  - DOMAIN,bbtv.blinkx.com
   - DOMAIN,bbullard.com
   - DOMAIN,bbzassociates.com
   - DOMAIN,bc.yahoo.com
@@ -3787,7 +3784,6 @@ payload:
   - DOMAIN,bcmediagroup.com
   - DOMAIN,bcp.lotamedmp.com
   - DOMAIN,bcpfb.perutracker.com
-  - DOMAIN,bcpzonasegurabetra.com
   - DOMAIN,bcvcmedia.com
   - DOMAIN,bd4travel.com
   - DOMAIN,bdcelectricalservices.com
@@ -4434,7 +4430,6 @@ payload:
   - DOMAIN,buyu9919.com
   - DOMAIN,buyu9920.com
   - DOMAIN,buyu9921.com
-  - DOMAIN,buyu9922.com
   - DOMAIN,buyu9923.com
   - DOMAIN,buyu9924.com
   - DOMAIN,buyu9926.com
@@ -4479,7 +4474,6 @@ payload:
   - DOMAIN,buyu9973.com
   - DOMAIN,buyu9974.com
   - DOMAIN,buyu9976.com
-  - DOMAIN,buyu9977.com
   - DOMAIN,buyu9979.com
   - DOMAIN,buyu9980.com
   - DOMAIN,buyu9981.com
@@ -4488,14 +4482,6 @@ payload:
   - DOMAIN,buyu9984.com
   - DOMAIN,buyu9986.com
   - DOMAIN,buyu9988.com
-  - DOMAIN,buyu9990.com
-  - DOMAIN,buyu9991.com
-  - DOMAIN,buyu9992.com
-  - DOMAIN,buyu9993.com
-  - DOMAIN,buyu9994.com
-  - DOMAIN,buyu9996.com
-  - DOMAIN,buyu9997.com
-  - DOMAIN,buyu9998.com
   - DOMAIN,buyu9999.com
   - DOMAIN,buz2mobile.com
   - DOMAIN,buzina.xyz
@@ -5184,6 +5170,7 @@ payload:
   - DOMAIN,checker.cityads.com
   - DOMAIN,checkhit.com
   - DOMAIN,checkmy.cam
+  - DOMAIN,checkmygeo.com
   - DOMAIN,cheerfulrange.com
   - DOMAIN,cheersfile.net
   - DOMAIN,chefnbrewfestival.com
@@ -5577,6 +5564,7 @@ payload:
   - DOMAIN,clone147.com
   - DOMAIN,cloreautomotive.com
   - DOMAIN,cloud.roistat.com
+  - DOMAIN,cloudadservers.com
   - DOMAIN,cloudcrown.com
   - DOMAIN,cloudfrontage.com
   - DOMAIN,cloudgraphite.com
@@ -5879,7 +5867,6 @@ payload:
   - DOMAIN,cookielawblog.wordpress.com
   - DOMAIN,cookies.cmpnet.com
   - DOMAIN,cookies.insites.com
-  - DOMAIN,cookingtiprewards.com
   - DOMAIN,cookingyourspanish.com
   - DOMAIN,cooknfit.com
   - DOMAIN,cool-hacks.com
@@ -6175,6 +6162,7 @@ payload:
   - DOMAIN,csgotape.com
   - DOMAIN,csgotaunt.com
   - DOMAIN,csgotradefly.com
+  - DOMAIN,csgotradejet.com
   - DOMAIN,csgotunes.com
   - DOMAIN,csgoweaponskins.net
   - DOMAIN,csinterinc.com
@@ -6578,7 +6566,6 @@ payload:
   - DOMAIN,desertedrat.com
   - DOMAIN,desertsportswear.com
   - DOMAIN,desguacesautocoche.com
-  - DOMAIN,deshmedia.com
   - DOMAIN,design.mangoxl.com
   - DOMAIN,designcss.org
   - DOMAIN,designiya.com
@@ -7862,7 +7849,6 @@ payload:
   - DOMAIN,feedback.miui.com
   - DOMAIN,feedback.uc.cn
   - DOMAIN,feedback.windows.com
-  - DOMAIN,feedbackexplorer.com
   - DOMAIN,feedbackresearch.com
   - DOMAIN,feedburner.google.com
   - DOMAIN,feedpedia.com
@@ -8560,7 +8546,6 @@ payload:
   - DOMAIN,gall.dcinside.com
   - DOMAIN,gallerycrush.com
   - DOMAIN,gamblerush.com
-  - DOMAIN,game-fix.com
   - DOMAIN,game-hacked.com
   - DOMAIN,game.fire2333.com
   - DOMAIN,game.youzu.com
@@ -9731,7 +9716,6 @@ payload:
   - DOMAIN,hoidulich.com
   - DOMAIN,holadescuentos.com
   - DOMAIN,holexknw.loan
-  - DOMAIN,holidayshoppingrewards.com
   - DOMAIN,holisticperiodontist.com
   - DOMAIN,holmesballard.chez.com
   - DOMAIN,holmeshelptest.uc.cn
@@ -10312,6 +10296,7 @@ payload:
   - DOMAIN,infocentroidtech.com
   - DOMAIN,infodocsportal.com
   - DOMAIN,infomas11.000webhostapp.com
+  - DOMAIN,infomobilhonda.com
   - DOMAIN,infonovia.com
   - DOMAIN,informacja-dnia.com
   - DOMAIN,information.com
@@ -13704,7 +13689,6 @@ payload:
   - DOMAIN,openx.vsekiden.com
   - DOMAIN,openx.watchmygf.net
   - DOMAIN,operationkettle.com
-  - DOMAIN,operationoverdrive.net
   - DOMAIN,opertrans.org
   - DOMAIN,opienetwork.com
   - DOMAIN,opiopiopi.000webhostapp.com
@@ -13738,7 +13722,6 @@ payload:
   - DOMAIN,oreshki-news.net
   - DOMAIN,oreware.com
   - DOMAIN,org-dot-com.com
-  - DOMAIN,organicbeautyminispa.com
   - DOMAIN,organizedmadness.org
   - DOMAIN,organogold.com
   - DOMAIN,orgdotcom.com
@@ -14109,6 +14092,7 @@ payload:
   - DOMAIN,peskygamer.com
   - DOMAIN,pestxbakersfield.com
   - DOMAIN,petelazer.com
+  - DOMAIN,peter-walters.com
   - DOMAIN,peterjj.000webhostapp.com
   - DOMAIN,peterjjj.000webhostapp.com
   - DOMAIN,peterschramko.com
@@ -15124,7 +15108,6 @@ payload:
   - DOMAIN,realclever.com
   - DOMAIN,realclix.com
   - DOMAIN,realestate.ipopple.net
-  - DOMAIN,realestate2.deshmedia.com
   - DOMAIN,realfreakypedia.com
   - DOMAIN,realgfsbucks.com
   - DOMAIN,realimob.com
@@ -15270,6 +15253,7 @@ payload:
   - DOMAIN,relayimmo.com
   - DOMAIN,relevantknowledge.com
   - DOMAIN,reliable-trip.com
+  - DOMAIN,reliablebanners.com
   - DOMAIN,reliabledownloads.org
   - DOMAIN,reliablefast.com
   - DOMAIN,reliablefiles.com
@@ -15912,7 +15896,6 @@ payload:
   - DOMAIN,searchresultsguide.com
   - DOMAIN,searchtoexplore.com
   - DOMAIN,searchwe.com
-  - DOMAIN,searra-ditol.cn
   - DOMAIN,seashare.net
   - DOMAIN,seasonfull.com
   - DOMAIN,seasonpass.sharezips.net
@@ -16556,7 +16539,6 @@ payload:
   - DOMAIN,smile-angel.com
   - DOMAIN,smile-glory.com
   - DOMAIN,smileapparels.com
-  - DOMAIN,smiletownfarm.com
   - DOMAIN,smilingfaceband.com
   - DOMAIN,smilingwaves.com
   - DOMAIN,smillie.000webhostapp.com
@@ -17216,7 +17198,6 @@ payload:
   - DOMAIN,streamhd24.com
   - DOMAIN,streaming.filmsgratuits.org
   - DOMAIN,streamingfilmhd.com
-  - DOMAIN,streamstats1.blinkx.com
   - DOMAIN,streamuj.org
   - DOMAIN,streamunion.com
   - DOMAIN,streetchicgeek.com
@@ -17548,6 +17529,7 @@ payload:
   - DOMAIN,tamilcm.com
   - DOMAIN,tan.pridnestrovie.com
   - DOMAIN,tangankanan.net
+  - DOMAIN,tangaroa-sailing.com
   - DOMAIN,tangence.actonsoftware.com
   - DOMAIN,tanglike.top
   - DOMAIN,tangwongkit.com
@@ -66209,6 +66191,8 @@ payload:
   - DOMAIN-KEYWORD,applovin
   - DOMAIN-KEYWORD,appsflyer
   - DOMAIN-KEYWORD,asewlfjqwlflkew
+  - DOMAIN-KEYWORD,bngpt
+  - DOMAIN-KEYWORD,bongacash
   - DOMAIN-KEYWORD,cnzz
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,dnserror
@@ -66220,10 +66204,13 @@ payload:
   - DOMAIN-KEYWORD,googleads
   - DOMAIN-KEYWORD,greenplasticdua
   - DOMAIN-KEYWORD,guanggao
+  - DOMAIN-KEYWORD,highwebmedia
   - DOMAIN-KEYWORD,inmobi
+  - DOMAIN-KEYWORD,jads
   - DOMAIN-KEYWORD,lianmeng
   - DOMAIN-KEYWORD,mobaders
   - DOMAIN-KEYWORD,monitor
+  - DOMAIN-KEYWORD,o333o
   - DOMAIN-KEYWORD,omgmta
   - DOMAIN-KEYWORD,omgmtaw
   - DOMAIN-KEYWORD,omniture
@@ -66234,12 +66221,14 @@ payload:
   - DOMAIN-KEYWORD,socdm
   - DOMAIN-KEYWORD,stsdk.vivo.com.cn
   - DOMAIN-KEYWORD,stsdk.vivoglobal.com
+  - DOMAIN-KEYWORD,stunninglover
   - DOMAIN-KEYWORD,supersonicads
   - DOMAIN-KEYWORD,taboola
   - DOMAIN-KEYWORD,talkingdata
   - DOMAIN-KEYWORD,toateeli
   - DOMAIN-KEYWORD,tracking
   - DOMAIN-KEYWORD,traffic
+  - DOMAIN-KEYWORD,trwl1
   - DOMAIN-KEYWORD,uedas
   - DOMAIN-KEYWORD,umeng
   - DOMAIN-KEYWORD,umtrack

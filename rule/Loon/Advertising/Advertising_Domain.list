@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-29 02:24:41
+# UPDATED: 2021-04-30 02:19:41
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-KEYWORD: 61
+# DOMAIN-KEYWORD: 68
 # DOMAIN-SUFFIX: 45535
-# DOMAIN: 20641
+# DOMAIN: 20623
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 66787
+# TOTAL: 66776
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -2199,7 +2199,6 @@ adsonflags.com
 adsp.haberturk.com
 adspectacle.net
 adspirit.net
-adspserving.com
 adsrv.ads.eniro.com
 adsrv.bangbros.com
 adsrv.deviantart.com
@@ -2620,7 +2619,6 @@ all.alisatilsner.com
 all.technologyoptical.com
 allaboutsearching.com
 alladvantage.com
-allanimehentai.com
 allaptair.club
 allaskme.com
 allbestnews.net
@@ -3151,7 +3149,6 @@ app.software-phile.com
 app.storage.yunvm.com
 app.subiz.com
 app.theuolo.com
-app.trackappr.com
 app.unbounce.com
 app.us-east-1.unbounce.com
 app.wigzo.com
@@ -3470,6 +3467,7 @@ avast-downloads.com
 avazunativeads.com
 aveprize.com
 aviamexpress.com
+aviatordiscs.com
 avidnewssource.com
 avidtrak.com
 avilagtitkai.com
@@ -3778,7 +3776,6 @@ bbs.tiens.net.cn
 bbs.youzu.com
 bbs.zgfhl.com
 bbsroofing.com
-bbtv.blinkx.com
 bbullard.com
 bbzassociates.com
 bc.yahoo.com
@@ -3788,7 +3785,6 @@ bchackomania.org
 bcmediagroup.com
 bcp.lotamedmp.com
 bcpfb.perutracker.com
-bcpzonasegurabetra.com
 bcvcmedia.com
 bd4travel.com
 bdcelectricalservices.com
@@ -4435,7 +4431,6 @@ buyu9918.com
 buyu9919.com
 buyu9920.com
 buyu9921.com
-buyu9922.com
 buyu9923.com
 buyu9924.com
 buyu9926.com
@@ -4480,7 +4475,6 @@ buyu9972.com
 buyu9973.com
 buyu9974.com
 buyu9976.com
-buyu9977.com
 buyu9979.com
 buyu9980.com
 buyu9981.com
@@ -4489,14 +4483,6 @@ buyu9983.com
 buyu9984.com
 buyu9986.com
 buyu9988.com
-buyu9990.com
-buyu9991.com
-buyu9992.com
-buyu9993.com
-buyu9994.com
-buyu9996.com
-buyu9997.com
-buyu9998.com
 buyu9999.com
 buz2mobile.com
 buzina.xyz
@@ -5185,6 +5171,7 @@ check2bill.org
 checker.cityads.com
 checkhit.com
 checkmy.cam
+checkmygeo.com
 cheerfulrange.com
 cheersfile.net
 chefnbrewfestival.com
@@ -5578,6 +5565,7 @@ clomgiriwil.com
 clone147.com
 cloreautomotive.com
 cloud.roistat.com
+cloudadservers.com
 cloudcrown.com
 cloudfrontage.com
 cloudgraphite.com
@@ -5880,7 +5868,6 @@ cookie.oup.com
 cookielawblog.wordpress.com
 cookies.cmpnet.com
 cookies.insites.com
-cookingtiprewards.com
 cookingyourspanish.com
 cooknfit.com
 cool-hacks.com
@@ -6176,6 +6163,7 @@ csgosteamanalyst.uk.com
 csgotape.com
 csgotaunt.com
 csgotradefly.com
+csgotradejet.com
 csgotunes.com
 csgoweaponskins.net
 csinterinc.com
@@ -6579,7 +6567,6 @@ desertedbreath.com
 desertedrat.com
 desertsportswear.com
 desguacesautocoche.com
-deshmedia.com
 design.mangoxl.com
 designcss.org
 designiya.com
@@ -7863,7 +7850,6 @@ feedback.apuslauncher.com
 feedback.miui.com
 feedback.uc.cn
 feedback.windows.com
-feedbackexplorer.com
 feedbackresearch.com
 feedburner.google.com
 feedpedia.com
@@ -8561,7 +8547,6 @@ galileounaluna.com
 gall.dcinside.com
 gallerycrush.com
 gamblerush.com
-game-fix.com
 game-hacked.com
 game.fire2333.com
 game.youzu.com
@@ -9732,7 +9717,6 @@ hohosearch.com
 hoidulich.com
 holadescuentos.com
 holexknw.loan
-holidayshoppingrewards.com
 holisticperiodontist.com
 holmesballard.chez.com
 holmeshelptest.uc.cn
@@ -10313,6 +10297,7 @@ info527.000webhostapp.com
 infocentroidtech.com
 infodocsportal.com
 infomas11.000webhostapp.com
+infomobilhonda.com
 infonovia.com
 informacja-dnia.com
 information.com
@@ -13705,7 +13690,6 @@ openx.omniton.net
 openx.vsekiden.com
 openx.watchmygf.net
 operationkettle.com
-operationoverdrive.net
 opertrans.org
 opienetwork.com
 opiopiopi.000webhostapp.com
@@ -13739,7 +13723,6 @@ oreo.iawsnetwork.com
 oreshki-news.net
 oreware.com
 org-dot-com.com
-organicbeautyminispa.com
 organizedmadness.org
 organogold.com
 orgdotcom.com
@@ -14110,6 +14093,7 @@ perupuntocom.com
 peskygamer.com
 pestxbakersfield.com
 petelazer.com
+peter-walters.com
 peterjj.000webhostapp.com
 peterjjj.000webhostapp.com
 peterschramko.com
@@ -15125,7 +15109,6 @@ realcastmedia.com
 realclever.com
 realclix.com
 realestate.ipopple.net
-realestate2.deshmedia.com
 realfreakypedia.com
 realgfsbucks.com
 realimob.com
@@ -15271,6 +15254,7 @@ relaxsearch.uphero.com
 relayimmo.com
 relevantknowledge.com
 reliable-trip.com
+reliablebanners.com
 reliabledownloads.org
 reliablefast.com
 reliablefiles.com
@@ -15913,7 +15897,6 @@ searchremagnified.com
 searchresultsguide.com
 searchtoexplore.com
 searchwe.com
-searra-ditol.cn
 seashare.net
 seasonfull.com
 seasonpass.sharezips.net
@@ -16557,7 +16540,6 @@ smi2ru.ivan.dev.smi2.net
 smile-angel.com
 smile-glory.com
 smileapparels.com
-smiletownfarm.com
 smilingfaceband.com
 smilingwaves.com
 smillie.000webhostapp.com
@@ -17217,7 +17199,6 @@ streamfullmoviehd.com
 streamhd24.com
 streaming.filmsgratuits.org
 streamingfilmhd.com
-streamstats1.blinkx.com
 streamuj.org
 streamunion.com
 streetchicgeek.com
@@ -17549,6 +17530,7 @@ tamada69.com
 tamilcm.com
 tan.pridnestrovie.com
 tangankanan.net
+tangaroa-sailing.com
 tangence.actonsoftware.com
 tanglike.top
 tangwongkit.com
