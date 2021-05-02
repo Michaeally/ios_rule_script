@@ -1,12 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-28 02:24:25
-# DOMAIN: 20
+# UPDATED: 2021-05-03 02:15:37
+# DOMAIN: 19
 # DOMAIN-SUFFIX: 8590
-# TOTAL: 8610
+# TOTAL: 8609
 payload:
-  - 'api.miwifi.com'
   - 'hm.baidu.com'
   - 'hmma.baidu.com'
   - 'js.users.51.la'

@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-02 02:17:25
+# UPDATED: 2021-05-03 02:15:38
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 68
-# DOMAIN-SUFFIX: 74487
-# DOMAIN: 14482
+# DOMAIN-SUFFIX: 74500
+# DOMAIN: 14480
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 89587
+# TOTAL: 89598
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -310,7 +310,6 @@
 7mart2500.com
 7metasearch.com
 7minuteworkout.com
-7power.com.cn
 7softwaredreams.com
 803.stats.misstrends.com
 81182479.com
@@ -1153,10 +1152,8 @@ alabamabackpage.com
 alabamalandandtimber.com
 alac-usa.com
 alainfranco.com
-alaksaair.com
 alamosupply.com
 alansaritrading.com
-alaskaaair.com
 albamargroup.com
 albanypowerexchange.com
 alberguecasaanita.com
@@ -1530,7 +1527,6 @@ api.limbik.com
 api.liveclicker.net
 api.mcwbiz.com
 api.micloud.xiaomi.net
-api.miwifi.com
 api.mobpalm.com
 api.newshuntads.com
 api.p2nservice.com
@@ -4066,7 +4062,6 @@ dl.cr173.com
 dl.faedmr.com
 dl.gameplaylabs.com
 dl.liebao.cn
-dl.microsword.net
 dl.pg.ksmobile.com
 dl.thefirstrowapp.com
 dl01.fabdmr.com
@@ -4145,7 +4140,6 @@ donnarogersimagery.com
 donnygilliland.com
 donnypinson.com
 donusenkobi.com
-dooshare.net
 dopalacze-sklep.org
 dorianusa.com
 doroncreations.com
@@ -4211,6 +4205,7 @@ downloadedsoftware.com
 downloadfreelab.com
 downloadfullcracks.com
 downloadgamespsvita.com
+downloadhack.net
 downloadhackcheat.com
 downloadhacktool.com
 downloadity.net
@@ -5397,7 +5392,6 @@ freemyapps.com
 freemyfile.com
 freenetflix.dlcodes.com
 freenetflixaccounts.com
-freenetflixaccs.com
 freenewbooks.com
 freenfaccount.com
 freeonescams.com
@@ -5643,6 +5637,7 @@ gamespress.net
 gamesps4free.com
 gamessteam.com
 gamestipshacks.com
+gamestrick.org
 gamesunite.net
 gametofaster.com
 gametrainersave.com
@@ -6671,7 +6666,6 @@ icipourtoi.com
 icityfind.com
 icloud-logins.com
 icloud-privacy.com
-icloud-support.net
 icloud.account-id.com
 icloud21.com
 icloudupdates.com
@@ -7660,6 +7654,7 @@ lanmeishiye.com
 lannickdinard.org
 lanshanfood.com
 lanxiang.bestaffwajueji.com
+lao.aizhigu8.com
 laohuangli365.com
 laowaihere.com
 laparfumotec.com
@@ -7718,6 +7713,7 @@ lbcommunicationsinc.com
 lc.livefyre.com
 lcd-studio.com
 lcloud-account.com
+lcloud-location.com
 ldgateway.com
 ldrtrack.com
 ldzqhq.biz
@@ -8435,6 +8431,7 @@ messagespaceads.com
 messagetag.com
 meta-designs.com
 metacount.com
+metalboxer.com
 metamask.com
 metanetwork.net
 metaswitchweightloss.com
@@ -8683,7 +8680,6 @@ moneytreebillingllc.com
 moneywin24.com
 monjuticlub.com
 monofeel.com
-monolithindia.com
 monsieuradz.zapto.org
 monsterlamp.cn
 monsterlegendshack.com
@@ -9859,7 +9855,6 @@ pincheat.com
 ping.mtraction.com
 pingdom.act-on.com
 pinggai5.caixin.com
-pinsuccess.com
 pinuppopup.com
 pipermuseum.com
 piranhacheats.com
@@ -10073,7 +10068,6 @@ pozyczki-prywatne.com
 pozyczkiprywatne.com
 pp.userapi.com
 ppapgame.com
-ppc-parked.domainsite.com
 ppd.bahjeez.com
 ppdninjas.com
 ppfjlk1.5tps.vip
@@ -10696,6 +10690,7 @@ roadhouseng.com
 roadmap.unbounce.com
 roadrunnerhomebuyers.com
 roadtrip.unbounce.com
+roamtify.com
 roaneink.com
 roaringcash.com
 robdeprop.com
@@ -11158,6 +11153,7 @@ serve.mytimesnow.com
 servedby.informatm.com
 servedby.studads.com
 serveload.com
+server.aadcomed.com
 server.findthemd.com
 server.freegamesall.com
 server.mgccw.com
@@ -11238,6 +11234,7 @@ sguoikjkgh.webstarterz.com
 sgvuexlhbgpylr.com
 sh-sunq.com
 sh.creativcdn.net
+sha2008.com
 sha2013.com
 shadesandblinds.com
 shafayat.com
@@ -12775,6 +12772,7 @@ tradeadsexchange.com
 tradebot.top
 trademetallica.com
 trademob.com
+trader.erosdlz.com
 traderockets.com
 tradersbrokers.com
 tradingcsgo.com
@@ -27881,6 +27879,7 @@ zzz.clickbank.net
 .biberukalap.com
 .bibi100.com
 .bibi91.com
+.bibilm.com
 .biboi.cn
 .bicacxo5go.com
 .bicarepterone.net
@@ -28220,6 +28219,7 @@ zzz.clickbank.net
 .bjyikao.org
 .bjytgw.com
 .bjzcbx.com
+.bjzsyx.cn
 .bjzywuxian.com
 .bk.goodline.info
 .bk9gun.vpser.net
@@ -37961,6 +37961,7 @@ zzz.clickbank.net
 .edimpleteexce.club
 .edinetadv.com
 .edintorni.net
+.edioca.com
 .edirect.efind.ru
 .ediun.com
 .ediuschina.com
@@ -40043,6 +40044,7 @@ zzz.clickbank.net
 .far-far-star.com
 .faracoon.com
 .farantitid.racing
+.farcdnf.com
 .farehitchlower.icu
 .farethief.com
 .farfarida.com
@@ -44159,6 +44161,7 @@ zzz.clickbank.net
 .gzsadlmy.cn
 .gzsanxiaomingshi.cn
 .gzsqhu.patirti.com
+.gzwxdq.cn
 .gzxiongwa.cn
 .gzxnlk.com
 .gzxxty168.com
@@ -46457,6 +46460,7 @@ zzz.clickbank.net
 .idwq.info
 .idwrx.com
 .idx.m.hub.sandai.net
+.idy666.com
 .ie-business.vodafone.com
 .ie.5500w.com
 .ie8eamus.com
@@ -48876,6 +48880,7 @@ zzz.clickbank.net
 .jinxc.fruitaxis.pw
 .jinxinyuan.cn
 .jinxiuzhilv.com
+.jinyinggroup.cn
 .jinzhao99.com
 .jioads.akamaized.net
 .jioder3e.cn
@@ -50565,6 +50570,7 @@ zzz.clickbank.net
 .kt4.kliptracker.com
 .kt5850pjz0.com
 .ktbhboeaqw.com
+.ktdlsb.com
 .kteyz.com
 .ktionz.com
 .ktoloto.com
@@ -60188,6 +60194,7 @@ zzz.clickbank.net
 .ohnooo.ru
 .ohodsplu.com
 .ohonorpod.site
+.ohpdsplu.com
 .ohrdsplu.com
 .ohsatum.info
 .ohstbumzdyz.com
@@ -62282,6 +62289,7 @@ zzz.clickbank.net
 .penetrateinstalmentfacial.com
 .penggua.com.cn
 .penglei.info
+.pengmingx.cn
 .penguin.craftpeak.io
 .penitentiaryoverdosetumble.com
 .penjazzvice.com
@@ -81574,6 +81582,7 @@ zzz.clickbank.net
 .utle.tech426.com
 .utma.ywpxp.cn
 .utokapa.com
+.utopia.ad-loupe.com
 .utorido.com
 .utoumine.net
 .utpenedwritted.info
@@ -84108,6 +84117,7 @@ zzz.clickbank.net
 .whysoserius.club
 .whytoss.com
 .whzhi.com
+.whzxpm.cn
 .wi.5.p2l.info
 .wi3brxwr2b3v.com
 .wibiya-actions.conduit-data.com
@@ -88385,6 +88395,7 @@ zzz.clickbank.net
 .zhimengad.com
 .zhinanw.cc
 .zhinengap.com
+.zhinengcd.cn
 .zhiong.net
 .zhipinbook.cn
 .zhitkise.info
