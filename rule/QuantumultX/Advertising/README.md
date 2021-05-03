@@ -20,8 +20,8 @@
 | 类型 | 数量(条) |
 | ---- | ---- |
 | HOST-KEYWORD | 68 |
-| HOST-SUFFIX | 45622 |
-| HOST | 20880 |
+| HOST-SUFFIX | 45626 |
+| HOST | 20876 |
 | IP-CIDR | 247 |
 | IP6-CIDR | 1 |
 ## 配置说明

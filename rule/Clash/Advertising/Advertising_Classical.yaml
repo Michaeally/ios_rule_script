@@ -1,10 +1,10 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-03 02:15:37
+# UPDATED: 2021-05-04 02:16:13
 # DOMAIN-KEYWORD: 68
-# DOMAIN-SUFFIX: 45622
-# DOMAIN: 20880
+# DOMAIN-SUFFIX: 45626
+# DOMAIN: 20876
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # TOTAL: 66818
@@ -2350,6 +2350,7 @@ payload:
   - DOMAIN,advertmarket.com
   - DOMAIN,advertpro.sitepoint.com
   - DOMAIN,advertpro.ya.com
+  - DOMAIN,adverts.freeloader.com
   - DOMAIN,advertte.com
   - DOMAIN,adverttraf.com
   - DOMAIN,advertwizard.com
@@ -3653,7 +3654,6 @@ payload:
   - DOMAIN,banner-img.haber7.com
   - DOMAIN,banner.50megs.com
   - DOMAIN,banner.ambercoastcasino.com
-  - DOMAIN,banner.betfred.com
   - DOMAIN,banner.casino.net
   - DOMAIN,banner.casinodelrio.com
   - DOMAIN,banner.casinotropez.com
@@ -4120,7 +4120,6 @@ payload:
   - DOMAIN,bjano.owncube.com
   - DOMAIN,bjjingda.com
   - DOMAIN,bjjmywcb.com
-  - DOMAIN,bjzksj.com.cn
   - DOMAIN,bkkwedding.com
   - DOMAIN,bkmccallumstudios.com
   - DOMAIN,bl7.000webhostapp.com
@@ -4296,7 +4295,6 @@ payload:
   - DOMAIN,boutique-miniature.com
   - DOMAIN,boutique.grouperf.com
   - DOMAIN,bouygues-care.inq.com
-  - DOMAIN,bovisfoods.com
   - DOMAIN,bovusforum.com
   - DOMAIN,bowlgirl.com
   - DOMAIN,boxinghd.net
@@ -4352,7 +4350,6 @@ payload:
   - DOMAIN,bridgestone.inq.com
   - DOMAIN,bridgetrack.speedera.r3h.net
   - DOMAIN,briebailey.tripod.com
-  - DOMAIN,briefcaze.com
   - DOMAIN,brightroll.com
   - DOMAIN,brilliant.applinzi.com
   - DOMAIN,bringmesports.com
@@ -5089,7 +5086,6 @@ payload:
   - DOMAIN,cepailru.com
   - DOMAIN,ceppartner.com
   - DOMAIN,cept.en.world-stone.com
-  - DOMAIN,ceptavou.net
   - DOMAIN,ceramicprolascruces.com
   - DOMAIN,cerrajerosos.com
   - DOMAIN,certificates.godaddy.com
@@ -6639,6 +6635,7 @@ payload:
   - DOMAIN,des.digicert.com
   - DOMAIN,desasukolilo.com
   - DOMAIN,desb.mspaceads.com
+  - DOMAIN,descargar-musica-gratis.net
   - DOMAIN,descargar-pdf.org
   - DOMAIN,desertedbreath.com
   - DOMAIN,desertedrat.com
@@ -6832,6 +6829,7 @@ payload:
   - DOMAIN,dl.gameplaylabs.com
   - DOMAIN,dl.ijinshan.com
   - DOMAIN,dl.liebao.cn
+  - DOMAIN,dl.microsword.net
   - DOMAIN,dl.pg.ksmobile.com
   - DOMAIN,dl.thefirstrowapp.com
   - DOMAIN,dl01.fabdmr.com
@@ -10669,7 +10667,6 @@ payload:
   - DOMAIN,j.hnhanjie.com
   - DOMAIN,j.jiuyue699.com
   - DOMAIN,j.qtjthk.com
-  - DOMAIN,j.ruixxiangapp.com
   - DOMAIN,j0c5je5flc.bbpsldh.org
   - DOMAIN,j1ti2.5255235.com
   - DOMAIN,j6hek.voluumtrk3.com
@@ -11572,7 +11569,6 @@ payload:
   - DOMAIN,likespike.com
   - DOMAIN,likeventy.com
   - DOMAIN,likingyetsnarl.com
-  - DOMAIN,likondok.com
   - DOMAIN,lilian.redirectme.net
   - DOMAIN,lily-ksa.com
   - DOMAIN,lilyjewellers.com
@@ -11915,6 +11911,7 @@ payload:
   - DOMAIN,m.pl.failmobile.net
   - DOMAIN,m.recipes.timesofindia.com
   - DOMAIN,m.servedby-buysellads.com
+  - DOMAIN,m.sfscooter.cn
   - DOMAIN,m.tidebuy.com
   - DOMAIN,m.track.ad.xiaomi.com
   - DOMAIN,m.trafficoffernetwork.com
@@ -15913,7 +15910,6 @@ payload:
   - DOMAIN,sanjosestartups.com
   - DOMAIN,sankakustatic.com
   - DOMAIN,sanpablodellago.com
-  - DOMAIN,sanprahealthcare.com
   - DOMAIN,sanseracingteam.com
   - DOMAIN,sanskarjewels.com
   - DOMAIN,santacruzsuspension.com
@@ -16910,6 +16906,7 @@ payload:
   - DOMAIN,sourcelemon.com
   - DOMAIN,sourcengo.com
   - DOMAIN,sourmath.com
+  - DOMAIN,soushop.net
   - DOMAIN,southernchampion.com
   - DOMAIN,southstreetim.com
   - DOMAIN,souvenirua.com
@@ -18995,7 +18992,6 @@ payload:
   - DOMAIN,unisyschannel.com
   - DOMAIN,unit8.test2.itembridge.com
   - DOMAIN,unitechmetalindoperkasa.com
-  - DOMAIN,unitedagricare.com
   - DOMAIN,unitedkingdomamerica.com
   - DOMAIN,unitedsol.net
   - DOMAIN,unitedtraders.com
@@ -20709,7 +20705,6 @@ payload:
   - DOMAIN,za.zeroredirect1.com
   - DOMAIN,za2.zeroredirect8.com
   - DOMAIN,zabavazaodrasle.com
-  - DOMAIN,zafrc.5780.site
   - DOMAIN,zagamers.com
   - DOMAIN,zahrachem.com
   - DOMAIN,zakupeo.com
@@ -20828,6 +20823,7 @@ payload:
   - DOMAIN,zjgswtl.com
   - DOMAIN,zjkxunda.com
   - DOMAIN,zjlawyeronline.com
+  - DOMAIN,zjlinkwell.cn
   - DOMAIN,zk.zeroredirect1.com
   - DOMAIN,zkic.com
   - DOMAIN,zl8206.huliangongyu.com
@@ -31674,6 +31670,7 @@ payload:
   - DOMAIN-SUFFIX,copvigvmzj.com
   - DOMAIN-SUFFIX,copycarpenter.com
   - DOMAIN-SUFFIX,copyrightaccesscontrols.com
+  - DOMAIN-SUFFIX,coral-task.uc.cn
   - DOMAIN-SUFFIX,coralogix.com
   - DOMAIN-SUFFIX,corateencountry.pro
   - DOMAIN-SUFFIX,core-cen-54.com
@@ -37175,6 +37172,7 @@ payload:
   - DOMAIN-SUFFIX,founseezb.cn
   - DOMAIN-SUFFIX,fountainwimp.com
   - DOMAIN-SUFFIX,fouptauk.com
+  - DOMAIN-SUFFIX,fourier.alibaba.com
   - DOMAIN-SUFFIX,fourier.taobao.com
   - DOMAIN-SUFFIX,fourmtagservices.appspot.com
   - DOMAIN-SUFFIX,fourmtagservices.com
@@ -40252,6 +40250,7 @@ payload:
   - DOMAIN-SUFFIX,huhuhiiuio.com
   - DOMAIN-SUFFIX,hui.sohu.com
   - DOMAIN-SUFFIX,huichenbz.com
+  - DOMAIN-SUFFIX,huichuan-mc.sm.cn
   - DOMAIN-SUFFIX,huichuan.sm.cn
   - DOMAIN-SUFFIX,huician.cn
   - DOMAIN-SUFFIX,huid.ad.360.cn
@@ -40822,7 +40821,6 @@ payload:
   - DOMAIN-SUFFIX,image.p4p.sogou.com
   - DOMAIN-SUFFIX,image.qj175.com
   - DOMAIN-SUFFIX,image.ttyouma.cn
-  - DOMAIN-SUFFIX,image.zzd.sm.cn
   - DOMAIN-SUFFIX,image66.top2099.com
   - DOMAIN-SUFFIX,imageadvantage.net
   - DOMAIN-SUFFIX,imageflux.cf
@@ -57289,6 +57287,7 @@ payload:
   - DOMAIN-SUFFIX,stat.lex.pl
   - DOMAIN-SUFFIX,stat.m.360.cn
   - DOMAIN-SUFFIX,stat.m.jd.com
+  - DOMAIN-SUFFIX,stat.m.jj.cn
   - DOMAIN-SUFFIX,stat.matichon.co.th
   - DOMAIN-SUFFIX,stat.media
   - DOMAIN-SUFFIX,stat.moevideo.net
@@ -66481,6 +66480,7 @@ payload:
   - DOMAIN-SUFFIX,zzcgw.cn
   - DOMAIN-SUFFIX,zzcmjn.com
   - DOMAIN-SUFFIX,zzcw.office-mall.net
+  - DOMAIN-SUFFIX,zzd.sm.cn
   - DOMAIN-SUFFIX,zzd6.com
   - DOMAIN-SUFFIX,zzdb5p4upiug.com
   - DOMAIN-SUFFIX,zzfanwo.cn

@@ -1,11 +1,11 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-03 02:15:36
+# UPDATED: 2021-05-04 02:16:12
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 68
-# DOMAIN-SUFFIX: 45622
-# DOMAIN: 20880
+# DOMAIN-SUFFIX: 45626
+# DOMAIN: 20876
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # URL-REGEX: 302
@@ -2351,6 +2351,7 @@ advertisingbox.com
 advertmarket.com
 advertpro.sitepoint.com
 advertpro.ya.com
+adverts.freeloader.com
 advertte.com
 adverttraf.com
 advertwizard.com
@@ -3654,7 +3655,6 @@ banner-d.oddcast.com
 banner-img.haber7.com
 banner.50megs.com
 banner.ambercoastcasino.com
-banner.betfred.com
 banner.casino.net
 banner.casinodelrio.com
 banner.casinotropez.com
@@ -4121,7 +4121,6 @@ bj-fengshi.com
 bjano.owncube.com
 bjjingda.com
 bjjmywcb.com
-bjzksj.com.cn
 bkkwedding.com
 bkmccallumstudios.com
 bl7.000webhostapp.com
@@ -4297,7 +4296,6 @@ boushehrmusic.com
 boutique-miniature.com
 boutique.grouperf.com
 bouygues-care.inq.com
-bovisfoods.com
 bovusforum.com
 bowlgirl.com
 boxinghd.net
@@ -4353,7 +4351,6 @@ bridgemanagement.com
 bridgestone.inq.com
 bridgetrack.speedera.r3h.net
 briebailey.tripod.com
-briefcaze.com
 brightroll.com
 brilliant.applinzi.com
 bringmesports.com
@@ -5090,7 +5087,6 @@ centurylink.inq.com
 cepailru.com
 ceppartner.com
 cept.en.world-stone.com
-ceptavou.net
 ceramicprolascruces.com
 cerrajerosos.com
 certificates.godaddy.com
@@ -6640,6 +6636,7 @@ dermoton.com
 des.digicert.com
 desasukolilo.com
 desb.mspaceads.com
+descargar-musica-gratis.net
 descargar-pdf.org
 desertedbreath.com
 desertedrat.com
@@ -6833,6 +6830,7 @@ dl.faedmr.com
 dl.gameplaylabs.com
 dl.ijinshan.com
 dl.liebao.cn
+dl.microsword.net
 dl.pg.ksmobile.com
 dl.thefirstrowapp.com
 dl01.fabdmr.com
@@ -10670,7 +10668,6 @@ j.bayctrk.com
 j.hnhanjie.com
 j.jiuyue699.com
 j.qtjthk.com
-j.ruixxiangapp.com
 j0c5je5flc.bbpsldh.org
 j1ti2.5255235.com
 j6hek.voluumtrk3.com
@@ -11573,7 +11570,6 @@ likeportal.com
 likespike.com
 likeventy.com
 likingyetsnarl.com
-likondok.com
 lilian.redirectme.net
 lily-ksa.com
 lilyjewellers.com
@@ -11916,6 +11912,7 @@ m.ms88ca.com
 m.pl.failmobile.net
 m.recipes.timesofindia.com
 m.servedby-buysellads.com
+m.sfscooter.cn
 m.tidebuy.com
 m.track.ad.xiaomi.com
 m.trafficoffernetwork.com
@@ -15914,7 +15911,6 @@ sanjaytechnical.com
 sanjosestartups.com
 sankakustatic.com
 sanpablodellago.com
-sanprahealthcare.com
 sanseracingteam.com
 sanskarjewels.com
 santacruzsuspension.com
@@ -16911,6 +16907,7 @@ source-hack.com
 sourcelemon.com
 sourcengo.com
 sourmath.com
+soushop.net
 southernchampion.com
 southstreetim.com
 souvenirua.com
@@ -18996,7 +18993,6 @@ unister-adservices.com
 unisyschannel.com
 unit8.test2.itembridge.com
 unitechmetalindoperkasa.com
-unitedagricare.com
 unitedkingdomamerica.com
 unitedsol.net
 unitedtraders.com
@@ -20710,7 +20706,6 @@ za-music.mymobiplanet.com
 za.zeroredirect1.com
 za2.zeroredirect8.com
 zabavazaodrasle.com
-zafrc.5780.site
 zagamers.com
 zahrachem.com
 zakupeo.com
@@ -20829,6 +20824,7 @@ zjfq4lnfbs7pncr5.tor2web.org
 zjgswtl.com
 zjkxunda.com
 zjlawyeronline.com
+zjlinkwell.cn
 zk.zeroredirect1.com
 zkic.com
 zl8206.huliangongyu.com
@@ -31675,6 +31671,7 @@ zzz.clickbank.net
 .copvigvmzj.com
 .copycarpenter.com
 .copyrightaccesscontrols.com
+.coral-task.uc.cn
 .coralogix.com
 .corateencountry.pro
 .core-cen-54.com
@@ -37176,6 +37173,7 @@ zzz.clickbank.net
 .founseezb.cn
 .fountainwimp.com
 .fouptauk.com
+.fourier.alibaba.com
 .fourier.taobao.com
 .fourmtagservices.appspot.com
 .fourmtagservices.com
@@ -40253,6 +40251,7 @@ zzz.clickbank.net
 .huhuhiiuio.com
 .hui.sohu.com
 .huichenbz.com
+.huichuan-mc.sm.cn
 .huichuan.sm.cn
 .huician.cn
 .huid.ad.360.cn
@@ -40823,7 +40822,6 @@ zzz.clickbank.net
 .image.p4p.sogou.com
 .image.qj175.com
 .image.ttyouma.cn
-.image.zzd.sm.cn
 .image66.top2099.com
 .imageadvantage.net
 .imageflux.cf
@@ -57290,6 +57288,7 @@ zzz.clickbank.net
 .stat.lex.pl
 .stat.m.360.cn
 .stat.m.jd.com
+.stat.m.jj.cn
 .stat.matichon.co.th
 .stat.media
 .stat.moevideo.net
@@ -66482,6 +66481,7 @@ zzz.clickbank.net
 .zzcgw.cn
 .zzcmjn.com
 .zzcw.office-mall.net
+.zzd.sm.cn
 .zzd6.com
 .zzdb5p4upiug.com
 .zzfanwo.cn

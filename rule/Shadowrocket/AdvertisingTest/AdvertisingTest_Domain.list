@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-03 02:15:38
+# UPDATED: 2021-05-04 02:16:13
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 68
-# DOMAIN-SUFFIX: 74500
-# DOMAIN: 14480
+# DOMAIN-SUFFIX: 74515
+# DOMAIN: 14477
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 89598
+# TOTAL: 89610
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1941,7 +1941,6 @@ banner-clix.com
 banner-d.oddcast.com
 banner-img.haber7.com
 banner.50megs.com
-banner.betfred.com
 banner.casinotropez.com
 banner.freeservers.com
 banner.jobsahead.com
@@ -2264,7 +2263,6 @@ bj-fengshi.com
 bjano.owncube.com
 bjjingda.com
 bjjmywcb.com
-bjzksj.com.cn
 bkkwedding.com
 bkmccallumstudios.com
 bl7.000webhostapp.com
@@ -2405,7 +2403,6 @@ boushehrmusic.com
 boutique-miniature.com
 boutique.grouperf.com
 bouygues-care.inq.com
-bovisfoods.com
 bovusforum.com
 boxinghd.net
 boyauderie-atlantique.com
@@ -2450,7 +2447,6 @@ bridgemanagement.com
 bridgestone.inq.com
 bridgetrack.speedera.r3h.net
 briebailey.tripod.com
-briefcaze.com
 brilliant.applinzi.com
 british-dispensary.net
 britnisenkiw.com
@@ -3923,6 +3919,7 @@ dermatovenerologiya.com
 dermoton.com
 des.digicert.com
 desasukolilo.com
+descargar-musica-gratis.net
 descargar-pdf.org
 desertsportswear.com
 desguacesautocoche.com
@@ -4062,6 +4059,7 @@ dl.cr173.com
 dl.faedmr.com
 dl.gameplaylabs.com
 dl.liebao.cn
+dl.microsword.net
 dl.pg.ksmobile.com
 dl.thefirstrowapp.com
 dl01.fabdmr.com
@@ -7108,7 +7106,6 @@ izzyfish.com
 j.hnhanjie.com
 j.jiuyue699.com
 j.qtjthk.com
-j.ruixxiangapp.com
 j0c5je5flc.bbpsldh.org
 j1ti2.5255235.com
 j77777777.com
@@ -10898,7 +10895,6 @@ sanjaytechnical.com
 sanjosestartups.com
 sankakustatic.com
 sanpablodellago.com
-sanprahealthcare.com
 sanseracingteam.com
 sanskarjewels.com
 santacruzsuspension.com
@@ -11664,6 +11660,7 @@ soulmemory.org
 soulsinsynch.com
 source-hack.com
 sourcelemon.com
+soushop.net
 southernchampion.com
 southstreetim.com
 souvenirua.com
@@ -13047,7 +13044,6 @@ unister-adservices.com
 unisyschannel.com
 unit8.test2.itembridge.com
 unitechmetalindoperkasa.com
-unitedagricare.com
 unitedkingdomamerica.com
 unitedsol.net
 unitedtraders.com
@@ -14443,6 +14439,7 @@ zjfq4lnfbs7pncr5.tor2web.org
 zjgswtl.com
 zjkxunda.com
 zjlawyeronline.com
+zjlinkwell.cn
 zkic.com
 zl8206.huliangongyu.com
 zlippyshare.com
@@ -18272,6 +18269,7 @@ zzz.clickbank.net
 .acuityads.com
 .acuityplatform.com
 .acv5e.cn
+.acweb.online
 .acwgf.com
 .acxiom-online.com
 .acxiomapac.com
@@ -26662,6 +26660,7 @@ zzz.clickbank.net
 .baitbrdwk.com
 .baitugu.com
 .baiwanchuangyi.com
+.baiweluy.com
 .baiwv.com
 .baixing.com
 .baiyangzs.com
@@ -27439,6 +27438,7 @@ zzz.clickbank.net
 .beak.bd.313.nl
 .beak.bigdata.dpgmmservices.nl
 .beakedpissod.com
+.beam.mjhlifesciences.com
 .beam.remp.impresa.pt
 .beam.remp.nv.ua
 .beamincrease.com
@@ -27555,6 +27555,7 @@ zzz.clickbank.net
 .bejzz.top
 .bek5qstfnr.club
 .bekannt-im-web.de
+.beklefkiom.com
 .belamicash.com
 .belaya2shu1ba1.com
 .belazyelephant.com
@@ -32984,6 +32985,7 @@ zzz.clickbank.net
 .copyrightmournfulsalon.com
 .copytitle.com
 .coquine-dispo.com
+.coral-task.uc.cn
 .coral.doublefine.com
 .coralogix.com
 .corateencountry.pro
@@ -34114,6 +34116,7 @@ zzz.clickbank.net
 .cyylove.com
 .cyzyyv.com
 .cz.ifeng0.com
+.cz09.com
 .cz345.cn
 .cz4444.cn
 .cz9k8b.top
@@ -35648,6 +35651,7 @@ zzz.clickbank.net
 .deteql.net
 .deteran.club
 .deterindependentblocked.com
+.determine-month-upward-shoot.xyz
 .determsclo.info
 .detnmz.careertrend.com
 .detnmz.homesteady.com
@@ -41178,6 +41182,7 @@ zzz.clickbank.net
 .fouralered.pro
 .fourarithmetic.com
 .fourfork.com
+.fourier.alibaba.com
 .fourier.taobao.com
 .fourmtagservices.appspot.com
 .fourmtagservices.com
@@ -45875,6 +45880,7 @@ zzz.clickbank.net
 .huhuhiiuio.com
 .hui.sohu.com
 .huichenbz.com
+.huichuan-mc.sm.cn
 .huichuan.sm.cn
 .huician.cn
 .huid.ad.360.cn
@@ -46730,7 +46736,6 @@ zzz.clickbank.net
 .image.qj175.com
 .image.richrelevance.com
 .image.ttyouma.cn
-.image.zzd.sm.cn
 .image66.top2099.com
 .imageads.canoe.ca
 .imageadvantage.net
@@ -47548,6 +47553,7 @@ zzz.clickbank.net
 .inheart.ru
 .inheritwalter.com
 .ini.litingxin.cn
+.inigusyou.fun
 .inimbus.com.au
 .ininmacerad.pro
 .inistrack.net
@@ -74023,6 +74029,7 @@ zzz.clickbank.net
 .stat.livesportbar.net
 .stat.m.360.cn
 .stat.m.jd.com
+.stat.m.jj.cn
 .stat.matichon.co.th
 .stat.media
 .stat.meitudata.com
@@ -76803,6 +76810,7 @@ zzz.clickbank.net
 .teesheel.net
 .teethfan.com
 .tefrequesth.top
+.tefumiji.xyz
 .tegiccurlish.fun
 .tehappear.top
 .teijs.alcampo.es
@@ -80788,6 +80796,7 @@ zzz.clickbank.net
 .uharded.com
 .uhbixtfhwdtmd.com
 .uhbjvwn.cn
+.uhdokoq5ocmk.com
 .uhedsplo.com
 .uhfdsplo.com
 .uhhcdb.economiadigital.es
@@ -81585,6 +81594,7 @@ zzz.clickbank.net
 .utopia.ad-loupe.com
 .utorido.com
 .utoumine.net
+.utoyoufio.fun
 .utpenedwritted.info
 .utpgxaylxurhbc.com
 .utq55kl9vyqv.com
@@ -82363,6 +82373,7 @@ zzz.clickbank.net
 .vidyp.com
 .vidzi.tv
 .viebitgreasy.email
+.viensvoircesite.com
 .vietalle.com
 .vietbet.eu
 .vietbuzzad.com
@@ -88957,6 +88968,7 @@ zzz.clickbank.net
 .zzcgw.cn
 .zzcmjn.com
 .zzcw.office-mall.net
+.zzd.sm.cn
 .zzd6.com
 .zzdb5p4upiug.com
 .zzfanwo.cn

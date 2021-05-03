@@ -20,8 +20,8 @@
 | 类型 | 数量(条) |
 | ---- | ---- |
 | DOMAIN-KEYWORD | 68 |
-| DOMAIN-SUFFIX | 45622 |
-| DOMAIN | 20880 |
+| DOMAIN-SUFFIX | 45626 |
+| DOMAIN | 20876 |
 | IP-CIDR | 247 |
 | IP-CIDR6 | 1 |
 ## 配置说明
