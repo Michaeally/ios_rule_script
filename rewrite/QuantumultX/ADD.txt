@@ -8,6 +8,9 @@
 ^https?:\/\/api\.m\.jd\.com\/openUpgrade url reject-dict
 # > 中国招商银行
 ^https?+:\/\/pic1cdn\.cmbchina\.com\/appinitads\/ - reject-200
+# Pornhub
+^https:\/\/(www|cn)\.pornhub.com url response-body <div class="topAdContainter">(\n.*){9}|<div class="premiumAdvertWrapper">(\n.*){5}|<div class="adContainer clearfix middleVideoAdContainer">(\n.*){7}|<div class="adContainer clearfix ad-tabSplit">(\n.*){7}|<div class="adContainer clearfix">(\n.*){7} response-body <meta name="author" content="zyd">
+## 视频开头广告
+^https:\/\/(www|cn)\.pornhub\.com\/_xa\/ads.* url reject
 
-
-hostname = www.meituan.com,apimobile.meituan.com,pic1cdn.cmbchina.com
+hostname = www.meituan.com,apimobile.meituan.com,pic1cdn.cmbchina.com,*.pornhub.com
