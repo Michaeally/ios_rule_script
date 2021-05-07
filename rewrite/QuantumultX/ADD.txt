@@ -1,0 +1,13 @@
+#向日葵
+^https?:\/\/slapi\.oray\.net\/adver url reject
+^https?:\/\/slapi\.oray\.net\/client\/ad url reject
+# 美团外卖更新检查
+^https?:\/\/www\.meituan\.com\/api\/v\d\/appstatus\? url reject
+^https?:\/\/apimobile\.meituan\.com\/appupdate\/mach\/checkUpdate? url reject
+# 京东更新检查
+^https?:\/\/api\.m\.jd\.com\/openUpgrade url reject-dict
+# > 中国招商银行
+^https?+:\/\/pic1cdn\.cmbchina\.com\/appinitads\/ - reject-200
+
+
+hostname = www.meituan.com,apimobile.meituan.com,pic1cdn.cmbchina.com
